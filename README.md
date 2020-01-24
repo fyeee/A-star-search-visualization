@@ -11,3 +11,7 @@ A visualization tool for A* search.
 4. Click space to run path finding algorithm
 
 * By clicking maze, a randomize maze will be generated using recursive division
+
+![](gif/no_obstacle.gif)
+![](gif/with_obstacle.gif)
+![](gif/maze.gif)
